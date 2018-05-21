@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bahsis_Uygulamasi</string>
+    <string name="action_settings">Settings</string>
+    <string name="fatura_text_view">Fatura</string>
+    <string name="fatura_edit_text">0.0</string>
+    
+    <string name="bahsis_text_view">Bahşiş</string>
+    <string name="bahsis_edit_text">0.15</string>
+   
+    <string name="toplam_text_view">Toplam Fatura</string>
+    <string name="toplam_edit_text">0.0</string>
+
+    <string name="degistir_text_view">Bahşiş Oranı</string>
+    
+    <string name="hizmet_text_view">Hizmet Nasıldı?</string>
+     	<string name="hizmet_guzel_text_view">Güzel</string>
+     	<string name="hizmet_orta_text_view">Orta</string>
+     	<string name="hizmet_kotu_text_view">Kötü</string>
+     
+    <string name="urun_text_view">Ürün Nasıldı?</string>
+     	<string name="urun_guzel_text_view">Güzel</string>
+     	<string name="urun_orta_text_view">Orta</string>
+     	<string name="urun_kotu_text_view">Kötü</string>
+     	
+    
+     <string name="hizmetsuresi_text_view">Hizmet Süresi :</string>
+     
+     <string name="baslat_kronometre_text_view">Başlat</string>
+     <string name="durdur_kronometre_text_view">Durdur</string>
+     <string name="bitir_kronometre_text_view">Bitir</string>
+     
+     <string-array name ="sorun_cozuluyor">
+         <item>Sorun Çözülüyor</item>
+         <item>Kötü</item>
+         <item>İyi</item>
+         <item>Güzel</item>
+     </string-array>
+    
+</resources>

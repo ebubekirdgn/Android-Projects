@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ideal Weight</string>
+    <string name="Boy">Length :</string>
+    <string name="Cinsiyet">Gender :</string>
+    <string name="Durum">Status :</string>
+    <string name="IdealKilo">Ideal Weight :</string>
+    <string name="Kilo">Weigth :</string>
+    <string name="durum_doktora">You should go to the doctor</string>
+    <string name="durumfazlakilo">More than your weight</string>
+    <string name="fazlakilo">More than usual</string>
+    <string name="ideal_kilo">You have an ideal weight</string>
+    <string name="obez">You are obese</string>
+    <string name="zayif">Your are weak</string>
+    <string name="Bay">Man</string>
+    <string name="Bayan">Woman</string>
+</resources>

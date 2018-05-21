@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DroopDown</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Dersler">Ders Seçimi Yapınız :</string>
+    <string-array name="Dersler">
+        <item >Matematik</item>
+        <item >Fen</item>
+        <item >Coğrafya</item>
+        <item >Tarih</item>
+        <item >XXX</item>
+    </string-array>
+
+</resources>

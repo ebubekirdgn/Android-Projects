@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContextMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="OgrenciListesi">
+        <item >Ebubekir Dogan</item>
+        <item >Osman Özdemir </item>
+        <item >Seda Sır</item>
+        <item >Burak Kırklar</item>
+        <item >Nermin Tınç</item>
+        <item >Elif Çelik</item>
+        <item >Durmuş Güney</item>
+        <item >Yusuf Çakar</item>
+        <item >Serhat Coşkun</item>
+        <item >Osman Güney</item>
+        <item >Cihat Baydan</item>
+        <item >Zeynep Polat</item>
+        <item >Cansu Alagöz</item>
+        <item >Fatih Yetimeoğlu</item>
+        <item >Alican Yüksel</item>
+        <item >Güldane Gürbüz</item>
+        <item >Eyüp Yürek</item>
+        <item >Eray Gümüş</item>
+        <item >İsmet TUNCER</item>
+        <item >Aslıhan Keleş</item>
+    </string-array>
+    <string name="Ust_Yazi">Öğrenci Listesinde Bir Öğrenci Seçiniz</string>
+
+</resources>

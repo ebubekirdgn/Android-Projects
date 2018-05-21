@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ebubekir.contextmenu.MainActivity">
+    <item
+        android:id="@+id/Duzenle"
+        android:orderInCategory="100"
+        android:title="Düzenle"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/Sil"
+        android:orderInCategory="100"
+        android:title="Sil"
+        app:showAsAction="ifRoom|withText"  />
+    <item
+        android:id="@+id/Paylas"
+        android:orderInCategory="100"
+        android:title="Paylaş"
+        app:showAsAction="ifRoom|withText"  />
+
+</menu>

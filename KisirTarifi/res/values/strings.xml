@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, KisirTarifiActivity!</string>
+    <string name="app_name">KisirTarifi</string>
+    <string name="hazirlanisiBaslik">Hazırlanışı</string>
+    <string name="malzemelerBaslik">Malzemeler</string>
+    <string name="secenek">Kısır tarifiyle ilgili bilgi almak için yukarıdaki butonlardan birine tıklayınız.</string>
+    <string name="malzemeler">* 2 su bardağı ince bulgur \n
+* 1 demet taze soğan \n
+* 1/2 demet maydanoz \n
+* 1/2 demet dereotu \n
+* 2 tatlı kaşığı kuru nane \n
+* 2 çorba kaşığı domates salçası \n
+* 2 çorba kaşığı biber salça \n
+* 1 tatlı kaşığı tuz \n
+* 1 çay kaşığı karabiber \n
+* 1 çay kaşığı kırmızıbiber \n
+* 1 çay kaşığı pulbiber \n
+* 1/2 çay bardağı zeytinyağı \n
+* 1 limonun suyu \n
+</string>
+
+    <string name="hazirlanisi">
+      1 – Bulguru ayıklayıp,3 kere yıkayın.\n
+      2 – Bulguru bir tencereye koyun.Üzerine bulgurun hizasından biraz az olacak şekilde sıcak su koyun.Tencerenin kapağını kapatıp,bulgurun suyu çekmesi için bekletin.\n
+      3 – Bulgur soğuduktan sonra ince kıyılmış taze soğan,maydanoz,dereotu,nane,domates,biber salçası,tuz,karabiber,kırmızıbiber,pulbiber, zeytinyağı ve
+       limon suyunu ekleyip karıştırın.\n</string>
+    
+
+</resources>

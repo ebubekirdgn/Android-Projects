@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="personel">
+        <item>Ebubekir</item>
+        <item>Doğan</item>
+        <item>Serhat</item>
+        <item>Sadat</item>
+        <item>Uğur</item>
+        <item>Ebubekir</item>
+        <item>Doğan</item>
+        <item>Serhat</item>
+        <item>Sadat</item>
+        <item>Uğur</item>
+
+
+    </array>
+</resources>

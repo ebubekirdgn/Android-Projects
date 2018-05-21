@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RadioButton</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rbfb">FENERBAHÇE</string>
+    <string name="rbgs">GALATASARAY</string>
+    <string name="rbsamsun">SAMSUNSPOR</string>
+    <string name="btngonder">GÖNDER</string>
+
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group
+        android:id="@+id/grup1"
+        android:checkableBehavior="none"
+        android:visible="true"
+         >
+        
+        <item android:id="@+id/item1"
+        android:title="@string/menu01" android:icon="@drawable/ic_launcher">
+        </item>
+        <item android:id="@+id/item2" android:title="@string/menu02">
+        </item>
+        <item android:id="@+id/item3" android:title="@string/menu03">
+        </item>
+        <item android:id="@+id/item4" android:title="@string/menu04">
+        </item>
+        <item android:id="@+id/item5" android:title="@string/menu05">
+        </item>
+        <item android:id="@+id/item6" android:title="@string/menu06"/>
+      
+    </group>
+    
+    <group
+        android:id="@+id/grup2"
+        android:checkableBehavior="none"
+        android:visible="true" >
+        <item android:id="@+id/item7" android:title="@string/menu07">
+        </item>
+        <item android:id="@+id/item8" android:title="@string/menu08">
+        </item>
+        <item android:id="@+id/item9" android:title="@string/menu09">
+        </item>
+        <item android:id="@+id/item10" android:title="@string/menu10">
+            <menu>
+                <item android:id="@+id/item11" android:title="@string/menu11"/>
+                <item android:id="@+id/item12" android:title="@string/menu12"/>
+                <item android:id="@+id/item13" android:title="@string/menu13"/>
+                <item android:id="@+id/item14" android:title="ON DORT"/>
+            </menu>
+        </item>
+        <item android:id="@+id/item15" android:title="ON BES"></item>
+    </group>
+    <item android:id="@+id/item16" android:title="ON ALTI">
+        <menu>
+            <item android:id="@+id/item17" android:title="ON YEDİ"/>
+            <item android:id="@+id/item18" android:title="ON SEKİZ"/>
+        </menu>
+    </item>
+    <item android:id="@+id/item19" android:title="ON DOKUZ">
+        <menu>
+            <group android:id="@+id/grup3">
+                <item android:id="@+id/item20" android:title="YİRMİ"/>
+                <item android:id="@+id/item21" android:title="YİRMİ BİR"/>
+            </group>
+            <item android:id="@+id/item22"/>
+            <item android:id="@+id/item23"/>
+            <item android:id="@+id/item24"/>
+        </menu>
+    </item>
+
+</menu>
+ 
+ 

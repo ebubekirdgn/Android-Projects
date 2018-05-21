@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ebubekir.menuler.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="0"
+        android:title="Ayarlar"
+        app:showAsAction="ifRoom|withText"
+
+         />
+    <item
+        android:id="@+id/Paylas"
+        android:orderInCategory="2"
+        android:title="Paylaş"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_menu_share"
+        />
+
+    <item
+        android:id="@+id/Guncelle"
+        android:orderInCategory="4"
+        android:title="Güncelle"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_menu_upload"
+
+        />
+
+</menu>

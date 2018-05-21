@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="action_settings">Settings</string>
+
+
+    <array name="renkler">
+        <item>Kırmızı</item>
+        <item>Yeşil</item>
+        <item>Gri</item>
+        <item>Kırmızı</item>
+        <item>Kırmızı</item>
+        <item>Kırmızı</item>
+        <item>Kırmızı</item>
+        <item>Kırmızı</item>
+    </array>
+
+</resources>

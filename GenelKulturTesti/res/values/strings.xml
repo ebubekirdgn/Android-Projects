@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GenelKulturTestiActivity!</string>
+    <string name="app_name">GenelKulturTesti</string>
+    <string name="soru1">1.Fatih Sultan Mehmet, İstanbul\'u fethettiğinde burcu neydi?</string>
+    <string name="aslan">A.Aslan</string>
+    <string name="koc">B.Koç</string>
+    <string name="soru2">2.Normal durumdaki bir insan kendi dirseğini yalayabilir mi?</string>
+	<string name="hayir">A.Hayır</string>
+	<string name="evet">B.Evet</string>
+	<string name="soru3">3.\"Yemicem işte,yemicem!\" cümlesinde Türkçe\'deki hangi yasa kullanılmıştır?</string>
+	<string name="enazcaba">B.En Az Çaba</string>
+	<string name="encokcaba">A.En Çok Çaba</string>
+</resources>

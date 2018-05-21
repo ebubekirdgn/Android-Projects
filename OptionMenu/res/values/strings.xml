@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OptionMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menuyazisi1">Bir</string>
+    <string name="menuyazisi2">İki</string>
+    <string name="menuyazisi3">Üc</string>
+
+</resources>

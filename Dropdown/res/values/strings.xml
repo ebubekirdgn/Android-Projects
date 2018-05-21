@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dropdown</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="SehirAdlari">
+        <item >Samsun</item>
+        <item >İstanbul</item>
+        <item >ÇARŞAMBA</item>
+        <item >Antalya</item>
+        <item >İzmir</item>
+        <item >Bodrum</item>
+        <item >Atakum</item> 
+        <item >19 Mayıs</item>  
+        
+    </string-array>
+    <string name="Sehirler">Sehirler</string>
+
+</resources>
